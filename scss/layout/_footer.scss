@@ -1,0 +1,7 @@
+@use "../abstract/variables" as var;
+@use "../abstract/mixins" as mix;
+
+.footer {
+    grid-area: footer;
+
+}
